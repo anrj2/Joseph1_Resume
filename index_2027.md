@@ -11,11 +11,10 @@ layout: resume
 
 ## EDUCATION
 
-#### Brigham Young University - Idaho
-Rexburg, ID
-**Bachelor of Science, Computer Science** 
-`2020-2024`
-Minor in Data Science
+#### Brigham Young University - Idaho                            
+**Bachelor of Science, Computer Science**<br>
+`2020-2024`<br>
+Minor in Data Science<br>
 Certificate in Machine Learning
 
 **Award:** Thomas Grant Scholarship – Brigham Young University Idaho `September 2020 – July 2024`
