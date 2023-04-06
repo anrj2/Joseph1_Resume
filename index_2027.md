@@ -1,88 +1,57 @@
 ---
 layout: resume
-title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Abby JOSEPH
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a>jos19004@byui.edu</a>
+<!-- <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
 </div>
-
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## EDUCATION
 
-## Education
+#### Brigham Young University - Idaho
+Rexburg, ID
+**Bachelor of Science, Computer Science** 
+`2020-2024`
+Minor in Data Science
+Certificate in Machine Learning
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+**Award:** Thomas Grant Scholarship – Brigham Young University Idaho `September 2020 – July 2024`
 
-- Full academic scholarship with 4.0 GPA
+## WORK EXPERIENCE
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`September 2021 – November 2022`
+University Food Services, _Cook_
 
-- 4.0 Major GPA
+* Work alongside other kitchen staff and Chefs to deliver food orders to customers.
+* Prepare between 40 to 60 sushi for customers in four hours.
+* Train at least 3 new students every semester into their new positions.
 
+` September 2019 – December 2019`
+Provo Missionary Training Center, _Teaching Resource Center Actor_
 
-## Related Experience
+* Provided authentic teaching experiences bi-weekly for 3 or 4 sets of missionaries to be able to fulfill their purpose while asking meaningful questions.
+* Created scenarios where missionaries encounter real-world situations by analyzing their needs and managing my time. 
 
-### Internships
+`June 2015  – August 2018`
+Adrienne Restaurant & Beauty Salon, _Assistant Manager_
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+* Responded to customer service issues while listening to their complaints and offering solutions.
+* Identified financial losses and projected future demands by completing inventory audits weekly.
+* Trained and supervised a total of 7 employees; cooks, cashiers, and servers. 
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+## EXTRA-CURRICULAR ACTIVITIES
+* President of the Society of Women Engineers, BYU-Idaho
+* New Student Mentor, BYU-Idaho
+* French Tutor, BYU-Idaho 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2023 -->
 
 
